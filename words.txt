@@ -1,0 +1,13 @@
+Perro
+Gallo
+Caballo
+Conejo
+Galina
+Colibri
+Jirafa
+Borrego
+Toro
+Vaca
+Zebra
+Hamster
+Serpiente
